@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name":"Hasimy",
+    "description":"I'm a junior programmer mostly focused on server/back-end web programming, but able to do some front-end as well",
+    "image":"profilepic.jpg",
+    "bio":"I'm a student on VHS Telkom Malang, I usually program for back-end services using Node.js, Express, and Restify. For the rest, I usually experimented with programming languages hihihi",
+    "contactmessage":"Send me a message, and we'll be contacting very soon!",
+    "email": "ahmadhasyimi674@gmail.com",
+    "phone": "+62 812 3381 0366",
+    "github":"https://github.com/hasimy-as",
+    "project":"https://hasimy-as.github.io/my-web",
+    "address":{
+      "street":"Masjid Al-Jufri Street",
+      "city":"Malang",
+      "state":"East Java",
+      "zip": "65142"
+    },
+    "website": "http://hasimy-as.github.io/my-web",
+    "resumedownload":"http://github.com/hasimy-as/My-Resume",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://facebook.com/ahmad.hasimy16",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/as_hasimy",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/achmad-hasimy-872921174",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/as.hasimy",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/hasimy-as",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some programmings that I can and able to do:",
+    "education":[
+      {
+        "school":"VHS Telkom Malang",
+        "degree":"Student",
+        "graduated":"Ongoing",
+        "description":"I learned programming the first time from here :)"
+      },
+      {
+        "school":"Online Classes",
+        "degree":"Almost everything experimental, from Bosque to React.",
+        "graduated":"Foreverr!!",
+        "description":"This is the place I accessed everytime I needed to learn more!"
+      }
+    ],
+    "work":[
+      {
+        "company":"Protalent",
+        "title":"Junior Programmer ",
+        "years":"December 2019",
+        "description":" I handle things back-end. Actually front though but still accessed it the same time hehe."
+      },
+      {
+        "company":"COMET",
+        "title":"Chairman",
+        "years":"October 2019 - Ongoing",
+        "description":"Not a company, but more like a sub-organization. Here I learned more about debate, teamwork, solidarity, and the reality of life gives you."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Node.js",
+        "level":"90%"
+      },
+      {
+        "name":"Express.js",
+        "level":"90%"
+      },
+      {
+        "name":"React.js",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"65%"
+      },
+      {
+        "name":"Flutter",
+        "level":"55%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"Objective-C",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Audit-In",
+        "category":"Website about auditorium services.",
+        "image":"auditin.png",
+        "url":"https://auditin-aja.herokuapp.com"
+      },
+      {
+        "title":"Artefak-Kos",
+        "category":"Website about borrowing a boarding house.",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://artefak-kost.herokuapp.com/"
+      }
+    ]
+  }
+}
