@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://facebook.com/ahmad.hasimy16",
+        "url":"https://facebook.com/as.hasimy",
         "className":"fa fa-facebook"
       },
       {
@@ -45,33 +45,33 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here are some programmings that I can and able to do:",
+    "skillmessage":"Here are some programmings that I can do:",
     "education":[
+      {
+        "school":"JHS 10 Malang",
+        "degree":"Student",
+        "graduated":"Graduated 2018",
+        "description":"My junior high, also the first time I learned programming here."
+      },
       {
         "school":"VHS Telkom Malang",
         "degree":"Student",
         "graduated":"Ongoing",
-        "description":"I learned programming the first time from here :)"
-      },
-      {
-        "school":"Online Classes",
-        "degree":"Almost everything experimental, from Bosque to React.",
-        "graduated":"Foreverr!!",
-        "description":"This is the place I accessed everytime I needed to learn more!"
+        "description":"I continue my programming journey as of now."
       }
     ],
     "work":[
       {
         "company":"Protalent",
-        "title":"Junior Programmer ",
+        "title":"Junior Programmer",
         "years":"December 2019",
-        "description":" I handle things back-end. Actually front though but still accessed it the same time hehe."
+        "description":" I handle things back-end. But front though and I still accessed it the same time hehe."
       },
       {
         "company":"COMET",
         "title":"Chairman",
         "years":"October 2019 - Ongoing",
-        "description":"Not a company, but more like a sub-organization. Here I learned more about debate, teamwork, solidarity, and the reality of life gives you."
+        "description":"An English sub-organization. Here I learned more about debate, teamwork, solidarity, and the reality of life gives you."
       }
     ],
     "skills":[
@@ -85,7 +85,7 @@
       },
       {
         "name":"React.js",
-        "level":"70%"
+        "level":"60%"
       },
       {
         "name":"PHP",
@@ -118,6 +118,18 @@
         "category":"Website about borrowing a boarding house.",
         "image":"artefak.png",
         "url":"http://artefak-kost.herokuapp.com/"
+      },
+      {
+        "title":"Arkademian",
+        "category":"Dummy for the Arkademian website.",
+        "image":"arkademian.png",
+        "url":"http://arkademian.herokuapp.com/"
+      },
+      {
+        "title":"Protalent",
+        "category":"The website I managed for Protalent.",
+        "image":"protalent.png",
+        "url":"http://protalent.business.site/"
       }
     ]
   }
