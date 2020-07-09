@@ -1,19 +1,19 @@
 {
   "main": {
     "name":"Hasimy",
-    "description":"Junior backend programmer.",
+    "description":"Junior backend programmer",
     "image":"profilepic.png",
     "bio":"I'm a student on VHS Telkom Malang, I usually program for back-end services using Node.js and Express. As of now, I'm experimenting with TS-Node and Deno.",
     "contactmessage":"Send me a message, and we'll be contacting very soon!",
     "email": "ahmadhasyimi674@gmail.com",
     "phone": "+62 812 3381 0366",
     "github":"https://github.com/hasimy-as",
-    "project":"https://hasimy-as.github.io/my-web",
+    "project":"https://hasimy-as.github.io/my-web/#portfolio",
     "address":{
       "street":"Masjid Al-Jufri Street",
       "city":"Malang",
       "state":"East Java",
-      "zip": "65142"
+      "zip": "65136"
     },
     "website": "http://hasimy-as.github.io/my-web",
     "social":[
