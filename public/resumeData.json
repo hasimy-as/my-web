@@ -1,19 +1,19 @@
 {
   "main": {
     "name":"Hasimy",
-    "description":"Junior backend programmer.",
+    "description":"Junior backend programmer",
     "image":"profilepic.png",
-    "bio":"I'm a student on VHS Telkom Malang, I usually program for back-end services using Node.js and Express. As of now, I'm experimenting with TS-Node and Deno.",
-    "contactmessage":"Send me a message, and we'll be contacting very soon!",
+    "bio":"I'm a student on Vocational High School Telkom Malang, I usually program for back-end services using Node.js, with its framework such as Express and Restify. As of now I'm experimenting with Deno, a secure runtime for JavaScript and TypeScript.",
+    "contactmessage":"Send me a message, and I'll contact you soon!",
     "email": "ahmadhasyimi674@gmail.com",
-    "phone": "+62 812 3381 0366",
+    "phone": "+62 812-3381-0366",
     "github":"https://github.com/hasimy-as",
-    "project":"https://hasimy-as.github.io/my-web",
+    "project":"https://hasimy-as.github.io/my-web/#portfolio",
     "address":{
       "street":"Masjid Al-Jufri Street",
       "city":"Malang",
       "state":"East Java",
-      "zip": "65142"
+      "zip": "65136"
     },
     "website": "http://hasimy-as.github.io/my-web",
     "social":[
@@ -45,16 +45,16 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here are some programmings that I can do:",
+    "skillmessage":"Below are my programming skills:",
     "education":[
       {
-        "school":"JHS 10 Malang",
+        "school":"Junior High School 10 Malang",
         "degree":"Student",
         "graduated":"Graduated 2018",
         "description":"My junior high, also the first time I learned programming here."
       },
       {
-        "school":"VHS Telkom Malang",
+        "school":"Vocational High School Telkom Malang",
         "degree":"Student",
         "graduated":"Ongoing",
         "description":"I continue my programming journey as of now."
@@ -63,15 +63,21 @@
     "work":[
       {
         "company":"Protalent",
-        "title":"Junior Programmer",
+        "title":"Junior Web Developer",
         "years":"December 2019",
         "description":"I handled both frontend and backend here."
       },
       {
         "company":"COMET",
         "title":"Chairman",
-        "years":"October 2019 - Ongoing",
+        "years":"October 2019 - October 2020",
         "description":"My school's English sub-organization. Here I learned more about debate, teamwork, solidarity, and the reality of life gives you."
+      },
+      {
+        "company":"Telkom Indonesia Digital Service Division",
+        "title":"Intern",
+        "years":"July 2020 - Ongoing",
+        "description":"I'm an intern here, assigned as the junior backend developer in the CMS Squad, Agree Tribe."
       }
     ],
     "skills":[
@@ -80,20 +86,20 @@
         "level":"90%"
       },
       {
-        "name":"Express.js",
+        "name":"Express",
         "level":"90%"
       },
       {
-        "name":"Deno",
-        "level":"75%"
+        "name":"Restify",
+        "level":"70%"
       },
       {
         "name":"React.js",
-        "level":"70%"
+        "level":"60%"
       },
       {
         "name":"Typescript",
-        "level":"70%"
+        "level":"60%"
       }
     ]
   },
@@ -121,7 +127,7 @@
         "title":"Protalent",
         "category":"The website I managed for Protalent.",
         "image":"protalent.png",
-        "url":"http://protalent.business.site/"
+        "url":"http://protalent.id/"
       }
     ]
   }
