@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Hasimy",
-    "description": "Junior Back End programmer",
+    "description": "Junior Back End Programmer",
     "image": "profilepic.png",
     "bio": "I'm a student on Vocational High Telkom Malang, I program for back-end services using Node.js, with its framework such as Express and Restify. As of now I'm experimenting with Deno, a secure runtime for JavaScript and TypeScript.",
     "contactmessage": "Send me a message, and I'll contact you soon!",
