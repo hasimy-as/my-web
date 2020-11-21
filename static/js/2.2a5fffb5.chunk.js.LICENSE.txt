@@ -30,10 +30,10 @@ object-assign
  */
 
 /*!
-* Proton v4.1.5
+* Proton v4.2.1
 * https://github.com/drawcall/Proton
 *
-* Copyright 2013-2019, A-JIE
+* Copyright 2013-2020, A-JIE
 * Licensed under the MIT license
 * http://www.opensource.org/licenses/mit-license
 *
@@ -48,7 +48,7 @@ object-assign
 *
 */
 
-/** @license React v0.18.0
+/** @license React v0.19.1
  * scheduler.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -57,7 +57,7 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v16.12.0
+/** @license React v16.14.0
  * react-dom.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -66,7 +66,7 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v16.12.0
+/** @license React v16.14.0
  * react.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
