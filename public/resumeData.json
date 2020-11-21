@@ -1,133 +1,157 @@
 {
   "main": {
-    "name":"Hasimy",
-    "description":"Junior backend programmer",
-    "image":"profilepic.png",
-    "bio":"I'm a student on Vocational High School Telkom Malang, I usually program for back-end services using Node.js, with its framework such as Express and Restify. As of now I'm experimenting with Deno, a secure runtime for JavaScript and TypeScript.",
-    "contactmessage":"Send me a message, and I'll contact you soon!",
+    "name": "Hasimy",
+    "description": "Junior Back End programmer",
+    "image": "profilepic.png",
+    "bio": "I'm a student on Vocational High Telkom Malang, I program for back-end services using Node.js, with its framework such as Express and Restify. As of now I'm experimenting with Deno, a secure runtime for JavaScript and TypeScript.",
+    "contactmessage": "Send me a message, and I'll contact you soon!",
     "email": "ahmadhasyimi674@gmail.com",
     "phone": "+62 812-3381-0366",
-    "github":"https://github.com/hasimy-as",
-    "project":"https://hasimy-as.github.io/my-web/#portfolio",
-    "address":{
-      "street":"Masjid Al-Jufri Street",
-      "city":"Malang",
-      "state":"East Java",
+    "github": "https://github.com/hasimy-as",
+    "project": "https://hasimy-as.github.io/my-web/#portfolio",
+    "address": {
+      "street": "Masjid Al-Jufri Street",
+      "city": "Malang",
+      "state": "East Java",
       "zip": "65136"
     },
     "website": "http://hasimy-as.github.io/my-web",
-    "social":[
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://facebook.com/as.hasimy",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://facebook.com/as.hasimy",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com/as_hasimy",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com/as_hasimy",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/achmad-hasimy-872921174",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hasimy-as",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/as.hasimy",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/as.hasimy",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/hasimy-as",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/hasimy-as",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Below are my programming skills:",
-    "education":[
+  "resume": {
+    "skillmessage": "Below are my programming skills:",
+    "education": [
       {
-        "school":"Junior High School 10 Malang",
-        "degree":"Student",
-        "graduated":"Graduated 2018",
-        "description":"My junior high, also the first time I learned programming here."
-      },
-      {
-        "school":"Vocational High School Telkom Malang",
-        "degree":"Student",
-        "graduated":"Ongoing",
-        "description":"I continue my programming journey as of now."
+        "school": "Vocational High Telkom Malang",
+        "degree": "Student",
+        "graduated": "Present",
+        "description": "I continue my programming journey as of now."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Protalent",
-        "title":"Junior Web Developer",
-        "years":"December 2019",
-        "description":"I handled both frontend and backend here."
+        "company": "Protalent",
+        "title": "Software Engineer",
+        "years": "December 2019 - Present",
+        "description": "I'm a software engineer and content maker here working part-time."
       },
       {
-        "company":"COMET",
-        "title":"Chairman",
-        "years":"October 2019 - October 2020",
-        "description":"My school's English sub-organization. Here I learned more about debate, teamwork, solidarity, and the reality of life gives you."
-      },
-      {
-        "company":"Telkom Indonesia Digital Service Division",
-        "title":"Intern",
-        "years":"July 2020 - Ongoing",
-        "description":"I'm an intern here, assigned as the junior backend developer in the CMS Squad, Agree Tribe."
+        "company": "Telkom Indonesia",
+        "title": "Junior Back End Developer",
+        "years": "August 2020 - Present",
+        "description": "I'm on an intern/apprenticeship at Agree, digital service of Telkom Indonesia."
       }
     ],
-    "skills":[
+    "volunteer": [
       {
-        "name":"Node.js",
-        "level":"90%"
+        "name": "COMET",
+        "title": "Chairperson",
+        "years": "July 2018 - October 2020",
+        "description": "My school's English organization. I was assigned as Secretary II from August 2018 to October 2019. Then I was mandated to be the Chairperson of the organization until October 2020."
       },
       {
-        "name":"Express",
-        "level":"90%"
+        "name": "HelloTalk",
+        "title": "Member",
+        "years": "December 2019 - Present",
+        "description": "Here I post educational content about languages, whilst also serving the community."
       },
       {
-        "name":"Restify",
-        "level":"70%"
+        "name": "Communications Team",
+        "title": "Officer",
+        "years": "February 2019 - Present",
+        "description": "My school's communications team. I was taught on how to communicate properly with anyone, shows proper directions, and also assisting teachers on their tasks."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "100%"
       },
       {
-        "name":"React.js",
-        "level":"60%"
+        "name": "Express",
+        "level": "100%"
       },
       {
-        "name":"Typescript",
-        "level":"60%"
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "DS & Algorithms",
+        "level": "75%"
+      },
+      {
+        "name": "Restify",
+        "level": "75%"
+      },
+      {
+        "name": "MariaDB - MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "Typescript",
+        "level": "70%"
+      },
+      {
+        "name": "Deno",
+        "level": "70%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Audit-In",
-        "category":"Website about auditorium services.",
-        "image":"auditin.png",
-        "url":"https://auditin-aja.herokuapp.com"
+        "title": "Audit-In",
+        "category": "Website about auditorium services.",
+        "image": "auditin.png",
+        "url": "https://auditin-aja.herokuapp.com"
       },
       {
-        "title":"Artefak-Kos",
-        "category":"Website about borrowing a boarding house.",
-        "image":"artefak.png",
-        "url":"http://artefak-kost.herokuapp.com/"
+        "title": "Artefak-Kos",
+        "category": "Website about borrowing a boarding house.",
+        "image": "artefak.png",
+        "url": "http://artefak-kost.herokuapp.com/"
       },
       {
-        "title":"Arkademian",
-        "category":"Dummy for the Arkademian website.",
-        "image":"arkademian.png",
-        "url":"http://arkademian.herokuapp.com/"
+        "title": "Arkademian",
+        "category": "Dummy for the Arkademian website.",
+        "image": "arkademian.png",
+        "url": "http://arkademian.herokuapp.com/"
       },
       {
-        "title":"Protalent",
-        "category":"The website I managed for Protalent.",
-        "image":"protalent.png",
-        "url":"http://protalent.id/"
+        "title": "Protalent",
+        "category": "The website I managed for Protalent.",
+        "image": "protalent.png",
+        "url": "http://protalent.id/"
       }
     ]
   }
