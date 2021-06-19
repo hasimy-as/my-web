@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08ffbe1a7b3904c44f261dde0be0b815",
+    "revision": "59d319a18f4314bc1fec220802f0aede",
     "url": "/index.html"
   },
   {
-    "revision": "32cbac0b283c42c95140",
+    "revision": "47c8af04d6ec75b84200",
     "url": "/static/css/main.94113648.chunk.css"
   },
   {
-    "revision": "437a424aa4eff8ff3c78",
-    "url": "/static/js/2.951d8b24.chunk.js"
+    "revision": "c7ab5f003eecb3df80c8",
+    "url": "/static/js/2.aa84d2f9.chunk.js"
   },
   {
-    "revision": "32cbac0b283c42c95140",
-    "url": "/static/js/main.4f49c018.chunk.js"
+    "revision": "47c8af04d6ec75b84200",
+    "url": "/static/js/main.8d2bf0c1.chunk.js"
   },
   {
     "revision": "f82607d1aa91d6d3e238",
@@ -176,12 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/github_logo.e64de169.png"
   },
   {
-    "revision": "0215af6177000d668d0e2378472394b6",
-    "url": "/static/media/hasimycir01.0215af61.png"
-  },
-  {
-    "revision": "30cd56039415eafbd17bb8d309c9ca26",
-    "url": "/static/media/hasimycirr.30cd5603.png"
+    "revision": "80e11df1a1603ebc17f43c5c68ab9c2c",
+    "url": "/static/media/hasimycircle.80e11df1.png"
   },
   {
     "revision": "17f534087189bdc1dc4a265ce2692597",
